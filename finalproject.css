@@ -1,13 +1,32 @@
-/*html,body{
-	height: 100%;
-	width: 100%;
-	margin:center;
+
+
+
+body {
+	margin:0;
+	padding:0;
+	background-color:#c6d7ec;
 }
 
-*/
-.GH {
+p{
+	margin-top:3%;
+	margin-left: 32%;
+	font-size:32px;
+}
 
-	text-align: center;
-	margin: auto;
 
+.GH{
+	margin-left:49%;
+	
+}
+
+#h2{
+	margin-left: 37%;
+}
+
+#h4{
+	margin-left: 27%;
+}
+
+.GH button{
+	margin:10px;
 }
